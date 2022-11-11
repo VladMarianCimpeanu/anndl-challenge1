@@ -3,3 +3,5 @@
 ./multiclassification_task/train
 ./multiclassification_task/val
 ./multiclassification_task/logs
+./multiclassification_task/utils/.ipynb_checkpoints
+
