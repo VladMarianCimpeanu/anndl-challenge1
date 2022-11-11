@@ -2,3 +2,4 @@
 ./multiclassification_task/test
 ./multiclassification_task/train
 ./multiclassification_task/val
+./multiclassification_task/logs
