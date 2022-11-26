@@ -15,6 +15,8 @@ The dataset provided is structured in a single folder containing the following c
 - Species6 : 222 images
 - Species7 : 537 images
 - Species8 : 508 images 
+
+
 The dataset contains in total 3542 images of size 96x96.
 
 ### Examples of images
