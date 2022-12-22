@@ -6,6 +6,8 @@ divided into 8 categories according to the species of the plant to which they be
 problem, given an image, the goal is to predict the correct class label.
 
 ## The dataset
+You can find the dataset [here](https://www.kaggle.com/datasets/vladcimpeanu/challenge1/settings).
+
 The dataset provided is structured in a single folder containing the following classes:
 - Species1 : 186 images
 - Species2 : 532 images
